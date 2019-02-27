@@ -1,0 +1,23 @@
+table {
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid black;
+  }
+  
+  h1{
+    text-align:center; 
+    background-color: lightgray;
+  }
+  th, td {
+    text-align: left;
+    padding: 16px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2
+  }
+  .MyContent 
+  {
+  display:none;
+  }
+  
